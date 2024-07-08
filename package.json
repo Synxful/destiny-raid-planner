@@ -1,6 +1,11 @@
 {
-    "scripts": {
-      "start": "bash start.sh"
-    }
+  "name": "discord-bot",
+  "version": "1.0.0",
+  "description": "A Discord bot",
+  "main": "main.py",
+  "scripts": {
+    "start": "python3 main.py"
+  },
+  "dependencies": {
   }
-  
+}
